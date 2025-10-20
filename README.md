@@ -52,7 +52,7 @@ The overall project workflow is represented using **BPMN (Business Process Model
 
 **Figure 1:** UART Project Workflow (BPMN)
 
-![UART BPMN Flowchart](Images/BPMN.png.png)
+![UART BPMN Flowchart](Images/BPMN.png)
 
 ---
 
