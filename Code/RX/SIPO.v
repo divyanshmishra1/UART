@@ -1,9 +1,9 @@
 module SIPO(
     input  wire         rst_n,        
-    input  wire         data_tx,        .
+    input  wire         data_tx,        
     input  wire         baud_clk,      
 
-    output wire         active_flag,    .
+    output wire         active_flag,    
     output wire         recieved_flag,  
     output wire  [10:0] data_parll   
 );
